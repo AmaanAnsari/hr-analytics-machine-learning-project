@@ -40,3 +40,9 @@ Our analysis revealed that complex models did not significantly outperform the s
 ## Conclusion
 
 The project highlights the importance of data preparation and model selection in predictive analytics. Despite the modest overall performance, the models provide valuable insights into the factors influencing job change decisions among training participants.
+
+## Grading
+Grade: 1.1
+
+## Additional Information
+For those interested in a deeper understanding of our methodologies, findings, and analyses, the full project report is available upon request. Please feel free to reach out to me for more detailed information and insights from our work.
